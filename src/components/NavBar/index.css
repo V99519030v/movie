@@ -1,0 +1,52 @@
+.navbar-container {
+  background-color: #ccdbe7;
+}
+
+.logo-container {
+  background-image: linear-gradient(to right, #b8c5bc, #bae303);
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.page-logo {
+  margin: 0;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 28px;
+  color: #032541;
+  letter-spacing: 1px;
+  line-height: 38px;
+  padding: 0 5px;
+}
+
+.nav-items-list {
+  list-style: none;
+  color: rgb(25, 0, 255);
+}
+
+.nav-item {
+  margin-left: 25px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: rgb(95, 50, 50) !important;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.search-input {
+  outline: none;
+  border: 1px solid #fff;
+  background-color: transparent;
+  padding: 4px 12px 7px;
+  color: #fff;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  color: black;
+  min-width: 250px;
+}
